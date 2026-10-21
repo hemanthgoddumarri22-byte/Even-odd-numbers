@@ -1,1 +1,5 @@
-# Even-odd-numbers
+a=1
+if a%2==0:
+print("even number")
+else:
+print("odd number")
